@@ -1,3 +1,7 @@
+// Author: Anna Pinchuk
+// Date: 03/05/2023
+// Description: Implementation of the class Fraction and tests
+// credit to: course staff for the header file, and the functions' descriptions.
 #include "doctest.h"
 #include "sources/Fraction.hpp"
 using namespace ariel;
